@@ -1,1 +1,1 @@
-# Point-System
+# Point System
